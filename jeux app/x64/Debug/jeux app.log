@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\SIWAR\Desktop\mes jeux c++\jeux app\jeux app\Game.h(4,9): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Input.cpp
+C:\Users\SIWAR\Desktop\mes jeux c++\jeux app\jeux app\Input.h(5,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  jeux app.cpp
+C:\Users\SIWAR\Desktop\mes jeux c++\jeux app\jeux app\jeux.h(5,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Génération de code en cours...
